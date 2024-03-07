@@ -21,7 +21,7 @@ const Section = () => {
 
                       <a
                           href="/"
-                          className="mt-8 inline-block rounded bg-indigo-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-yellow-400"
+                          className="mt-8 inline-block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-black hover:border-yellow-400 hover:ring-2 focus:outline-none focus:ring hover:ring-yellow-400 "
                       >
                           Get Started Today
                       </a>
@@ -29,7 +29,7 @@ const Section = () => {
 
                   <div className="grid grid-cols-2 gap-4 sm:grid-cols-3">
                       <a
-                          className="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
+                          className="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-yellow-400 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
                           href="/accountant"
                       >
                           <span className="inline-block rounded-lg bg-gray-50 p-3">

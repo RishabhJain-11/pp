@@ -92,7 +92,7 @@ const Questions = () => {
             <div className="space-y-4 max-w-lg text-center lg:mx-0 ltr:lg:text-left rtl:lg:text-right">
                 <h2 className="text-3xl text-white font-bold sm:text-4xl">Skill set related questions ...</h2>
 
-                <details className="group border-2 border-red-500 hover:border-green-400 bg-gray-50 p-4 dark:bg-gray-900">
+                <details className="group border-2 border-red-500 hover:border-yellow-400 bg-gray-50 p-4 dark:bg-gray-900">
                     <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-base font-medium text-gray-900 dark:text-white">
                         Lorem ipsum dolor sit amet consectetur adipisicing?
                         <span className="shrink-0 rounded-full bg-white p-2 text-gray-900 dark:bg-gray-800 dark:text-white sm:p-3">
@@ -119,7 +119,7 @@ const Questions = () => {
                     </p>
                 </details>
 
-                <details className="group border-2 border-red-500 hover:border-green-400 bg-gray-50 p-4 dark:bg-gray-900">
+                <details className="group border-2 border-red-500 hover:border-yellow-400 bg-gray-50 p-4 dark:bg-gray-900">
                     <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-base font-medium text-gray-900 dark:text-white">
                         Lorem ipsum dolor sit amet consectetur adipisicing?
                         <span className="shrink-0 rounded-full bg-white p-2 text-gray-900 dark:bg-gray-800 dark:text-white sm:p-3">
@@ -145,7 +145,7 @@ const Questions = () => {
                         earum similique!
                     </p>
                 </details>
-                <details className="group border-2 border-red-500 hover:border-green-400 bg-gray-50 p-4 dark:bg-gray-900">
+                <details className="group border-2 border-red-500 hover:border-yellow-400 bg-gray-50 p-4 dark:bg-gray-900">
                     <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-base font-medium text-gray-900 dark:text-white">
                         Lorem ipsum dolor sit amet consectetur adipisicing?
                         <span className="shrink-0 rounded-full bg-white p-2 text-gray-900 dark:bg-gray-800 dark:text-white sm:p-3">
@@ -171,7 +171,7 @@ const Questions = () => {
                         earum similique!
                     </p>
                 </details>
-                <details className="group border-2 border-red-500 hover:border-green-400 bg-gray-50 p-4 dark:bg-gray-900">
+                <details className="group border-2 border-red-500 hover:border-yellow-400 bg-gray-50 p-4 dark:bg-gray-900">
                     <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-base font-medium text-gray-900 dark:text-white">
                         Lorem ipsum dolor sit amet consectetur adipisicing?
                         <span className="shrink-0 rounded-full bg-white p-2 text-gray-900 dark:bg-gray-800 dark:text-white sm:p-3">
@@ -197,7 +197,7 @@ const Questions = () => {
                         earum similique!
                     </p>
                 </details>
-                <details className="group border-2 border-red-500 hover:border-green-400 bg-gray-50 p-4 dark:bg-gray-900">
+                <details className="group border-2 border-red-500 hover:border-yellow-400 bg-gray-50 p-4 dark:bg-gray-900">
                     <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-base font-medium text-gray-900 dark:text-white">
                         Lorem ipsum dolor sit amet consectetur adipisicing?
                         <span className="shrink-0 rounded-full bg-white p-2 text-gray-900 dark:bg-gray-800 dark:text-white sm:p-3">
@@ -216,7 +216,7 @@ const Questions = () => {
                         </span>
                     </summary>
 
-                    <p className="mt-2 leading-relaxed text-gray-700 dark:text-gray-200">
+                    <p className="mt-2 leading-relaxed text-gray-700 dark:text-gray-200 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab hic veritatis
                         molestias culpa in, recusandae laboriosam neque aliquid libero nesciunt
                         voluptate dicta quo officiis explicabo consequuntur distinctio corporis

@@ -22,14 +22,14 @@ const Banner = () => {
 
                     <div className="mt-8 flex flex-wrap justify-center gap-4">
                         <a
-                            className="block w-full rounded border border-blue-600 bg-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
+                            className="inline-block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-black hover:ring-2 focus:outline-none focus:ring hover:ring-yellow-400"
                             href="/get-started"
                         >
                             Get Started
                         </a>
 
                         <a
-                            className="block w-full rounded border border-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-blue-600 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
+                            className="inline-block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-black hover:ring-2 focus:outline-none focus:ring hover:ring-yellow-400"
                             href="/about"
                         >
                             Learn More

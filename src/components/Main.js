@@ -35,7 +35,7 @@ const Main = () => {
 
                             <a
                                 href="/"
-                                className="mt-8 inline-block rounded border border-black bg-gradient-to-r from-red-300 via-red-500 to-red-800 text-white px-12 py-3 text-sm font-medium "
+                                className="mt-8 inline-block rounded bg-red-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-black hover:ring-2 focus:outline-none focus:ring hover:ring-yellow-400"
                             >
                                 Get in Touch
                             </a>
